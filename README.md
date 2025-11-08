@@ -47,5 +47,5 @@ mvn exec:java -Dexec.mainClass="com.project.core.ui.ApplicationController"
 
 ## Auteur
 
-Projet académique - Version 2.0
+Projet académique - KARKACHI Mohamed
 
